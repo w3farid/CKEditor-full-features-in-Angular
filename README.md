@@ -6,4 +6,4 @@
 ```
 
 
-![alt text](https://github.com/w3farid/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/w3farid/CKEditor-full-features-in-Angular/blob/master/src/assets/demo.png?raw=true)
